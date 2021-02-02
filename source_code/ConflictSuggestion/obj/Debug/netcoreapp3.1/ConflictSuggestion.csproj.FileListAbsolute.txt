@@ -1,0 +1,13 @@
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.exe
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.deps.json
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.runtimeconfig.json
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.runtimeconfig.dev.json
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.dll
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\bin\Debug\netcoreapp3.1\ConflictSuggestion.pdb
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.csprojAssemblyReference.cache
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.csproj.CoreCompileInputs.cache
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.AssemblyInfoInputs.cache
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.AssemblyInfo.cs
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.dll
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.pdb
+F:\privProj\ConflictSuggestion\ConflictSuggestion\source_code\ConflictSuggestion\obj\Debug\netcoreapp3.1\ConflictSuggestion.genruntimeconfig.cache
